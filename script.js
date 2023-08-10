@@ -74,6 +74,4 @@ form.addEventListener("submit", (e) => {
 
         search.value = "";
     }
-    else
-        console.log("User doesn't not exist");
 });
